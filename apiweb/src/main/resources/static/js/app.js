@@ -9,4 +9,4 @@ appCliente.config(function ($routeProvider, $locationProvider){
 		.otherwise({rediretTo:'/'});
 });
 
-$locationProvider.html5Mode(true);
+	$locationProvider.html5Mode(true);
